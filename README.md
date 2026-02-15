@@ -14,7 +14,7 @@ The objective is to identify customers likely to leave a service and understand 
 
 The dataset contains customer demographic and behavioral data.
 
-\- Target variable: \*\*Churn (Yes / No)
+\- Target variable: **Churn (Yes / No)**
 
 
 
