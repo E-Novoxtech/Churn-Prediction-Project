@@ -61,6 +61,17 @@ Confusion Matrix  \[1551   56]
 
 &nbsp;                 \[211   182]
 
+## 📊 Model Evaluation
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Precision–Recall Curve
+![Precision Recall Curve](images/precision_recall_curve.png)
+
 
 
 
